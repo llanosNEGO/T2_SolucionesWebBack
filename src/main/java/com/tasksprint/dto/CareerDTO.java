@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class CareerDTO {
-    private Integer IdCInteger;
+    private Integer IdCareer;
     private String code;
     private String name;
 }
